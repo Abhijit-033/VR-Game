@@ -1,0 +1,34 @@
+# Created by Jmol 14.29.29  2018-11-28 19:07
+
+#Gris
+newmtl k909090
+ #Brillance
+ Ns 1000
+ Tr 1
+ Ni 0.001
+ illum 2
+ #Transparence
+ d 0.9
+ Ka 0.20 0.20 0.20
+ Kd .566 .566 .566
+ Ks 0.25 0.25 0.25
+
+#Rouge
+newmtl kff0d0d
+ Ns 1000
+ Tr 1
+ Ni 0.001
+ illum 2
+ Ka 0.20 0.20 0.20
+ Kd 1 .055 .055
+ Ks 0.25 0.25 0.25
+
+#Blanc
+newmtl kffffff
+ Ns 1000
+ Tr 1
+ Ni 0.001
+ illum 2
+ Ka 0.20 0.20 0.20
+ Kd 1 1 1
+ Ks 0.25 0.25 0.25
